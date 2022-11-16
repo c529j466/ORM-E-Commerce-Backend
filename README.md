@@ -11,7 +11,7 @@ To see the backend functionality I added, a user would want to run the schema in
 
 ## Usage
 
-![Insomnia Screenshot](./COMING SOON)
+![Insomnia Screenshot](./assets/images/Screenshot%20(7).png)
 
 
 Video Link:
