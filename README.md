@@ -16,6 +16,7 @@ To see the backend functionality I added, a user would want to run the schema in
 
 Video Link:
 
+https://drive.google.com/file/d/1Rs18OL1QvL6G7Xb1ZgWcvcJi5XNqdM7p/view?usp=share_link
 
 ## Credits
 
